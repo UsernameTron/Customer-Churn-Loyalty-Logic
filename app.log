@@ -1,0 +1,28 @@
+2025-01-07 12:34:17,707:INFO:Data loaded successfully.
+2025-01-07 12:34:17,714:ERROR:Error in preprocessing data: OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2025-01-07 12:36:01,517:INFO:Data loaded successfully.
+2025-01-07 12:36:01,526:INFO:Data preprocessed successfully.
+2025-01-07 12:36:02,514:ERROR:Error in loading or training model: cannot access local variable 'encoder' where it is not associated with a value
+2025-01-07 12:38:32,604:INFO:Data loaded successfully.
+2025-01-07 12:38:32,613:INFO:Data preprocessed successfully.
+2025-01-07 12:43:57,540:INFO:Data loaded successfully.
+2025-01-07 12:43:57,546:INFO:Data preprocessed successfully.
+2025-01-07 12:43:58,363:INFO:Model trained and saved to disk.
+2025-01-07 12:43:58,468:INFO:User input collected successfully.
+2025-01-07 12:43:58,475:ERROR:Error in SHAP explanation: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- Churn
+
+2025-01-07 12:48:01,328:INFO:Data loaded successfully.
+2025-01-07 12:48:01,338:INFO:Data preprocessed successfully.
+2025-01-07 12:48:01,809:INFO:Model, scaler, and encoder loaded from disk.
+2025-01-07 12:48:01,914:INFO:User input collected successfully.
+2025-01-07 12:48:01,932:ERROR:Error in SHAP explanation: waterfall() got an unexpected keyword argument 'ax'
+2025-01-07 12:48:14,443:INFO:User input collected successfully.
+2025-01-07 12:48:14,449:ERROR:Error in SHAP explanation: waterfall() got an unexpected keyword argument 'ax'
+2025-01-07 12:48:18,562:INFO:User input collected successfully.
+2025-01-07 12:48:18,569:ERROR:Error in SHAP explanation: waterfall() got an unexpected keyword argument 'ax'
+2025-01-07 12:50:24,285:INFO:Data loaded successfully.
+2025-01-07 12:50:24,293:INFO:Data preprocessed successfully.
+2025-01-07 12:50:24,792:INFO:Model, scaler, and encoder loaded from disk.
+2025-01-07 12:50:24,893:INFO:User input collected successfully.
