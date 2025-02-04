@@ -1,4 +1,5 @@
 # Customer Churn Prediction for Subscription Service
+⚠️ **Security Notice:** This repository does not contain any sensitive or personal data. Please ensure that you do not commit any API keys, passwords, or confidential information.
 
 ## Overview
 A Streamlit application that predicts customer churn for a subscription service using machine learning. Helps businesses identify customers at risk of leaving and take proactive measures to retain them.
